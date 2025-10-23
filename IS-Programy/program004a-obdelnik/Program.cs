@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("********* Vykreslení obdélníku/čtverce ******");
+    Console.WriteLine("******** Vykreslení obdélníku/čtverce ******");
     Console.WriteLine("********************************************");
     Console.WriteLine("***************** Matěj Hrabal *************");
     Console.WriteLine("**************** 23.10.2025 ****************");

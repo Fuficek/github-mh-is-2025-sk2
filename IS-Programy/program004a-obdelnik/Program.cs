@@ -6,7 +6,7 @@ while (again == "a")
     Console.WriteLine("******** Vykreslení obdélníku/čtverce ******");
     Console.WriteLine("********************************************");
     Console.WriteLine("***************** Matěj Hrabal *************");
-    Console.WriteLine("**************** 23.10.2025 ****************");
+    Console.WriteLine("**************** 20.11.2025 ****************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
